@@ -1,0 +1,13 @@
+.element1 {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    
+  }
+
+  .element2 {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    display: none;
+  }

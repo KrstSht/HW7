@@ -1,0 +1,8 @@
+.custom-element {
+    position: fixed;
+    top: calc(50% - 16px);
+    right: calc(50% - 16px);
+    width: 32px;
+    height: 32px;
+    background-color: red;
+}
